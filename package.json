@@ -1,9 +1,13 @@
 {
   "name": "gallery-node",
-  "version": "0.0.0",
-  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
   "scripts": {
     "start": "nodemon ./bin/www"
+  },
+  "engines": {
+    "node": "14.15.1"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
