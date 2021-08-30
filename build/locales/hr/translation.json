@@ -1,0 +1,27 @@
+{
+    "page-title": "Jadrankine slike",
+    "home-title": "Ja sam Jadranka!",
+
+    "learn-more": "SAZNAJ VIŠE",
+    "technique": "Tehnika:",
+    "painted-at": "Godina:",
+
+    "name": "Ime",
+    "name-restriction": "Ime mora imati najmanje 5 znakova.",
+
+    "message": "Tekst poruke",
+    "message-restriction": "Tekst poruke mora imati najmanje 15 znakova.",
+
+    "email": "Vaša email adresa",
+    "email-restriction": "Molimo unesite valjanu email adresu.",
+    "email-helper-text": "Nikada nećemo dijeliti vašu email adresu.",
+
+    "submit": "Pošalji",
+    "success-message": "Poruka uspješno poslana!",
+    "error-message": "Nešto je pošlo po krivu, molimo pokušajte kasnije.",
+    "info-message": "Vaša se poruka šalje!",
+
+    "contact-title": "Ako imaš pitanja, javi se!",
+
+    "select-language": "HR"
+}

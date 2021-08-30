@@ -1,0 +1,27 @@
+{
+    "page-title": "Paintings by Jadranka",
+    "home-title": "My name is Jadranka!",
+
+    "learn-more": "LEARN MORE",
+    "technique": "Technique:",
+    "painted-at": "Year:",
+
+    "name": "Name",
+    "name-restriction": "Name has to have at least 5 characters.",
+
+    "message": "Message",
+    "message-restriction": "Message has to have at least 15 characters.",
+
+    "email": "Your email",
+    "email-restriction": "Please enter a valid email.",
+    "email-helper-text": "We'll never share your email.",
+
+    "submit": "Submit",
+    "success-message": "Message sent successfully!",
+    "error-message": "Something went wrong, please try again later.",
+    "info-message": "Your message is being sent!",
+
+    "contact-title": "If you have questions, let me know!",
+
+    "select-language": "EN"
+}
