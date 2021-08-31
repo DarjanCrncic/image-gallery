@@ -1,5 +1,5 @@
 {
-    "page-title": "Paintings by Jadranka",
+    "page-title": "Jadranka's Paintings",
     "home-title": "My name is Jadranka!",
 
     "learn-more": "LEARN MORE",
@@ -7,10 +7,10 @@
     "painted-at": "Year:",
 
     "name": "Name",
-    "name-restriction": "Name has to have at least 5 characters.",
+    "name-restriction": "Name has to have at least 3 characters.",
 
     "message": "Message",
-    "message-restriction": "Message has to have at least 15 characters.",
+    "message-restriction": "Message has to have at least 10 characters.",
 
     "email": "Your email",
     "email-restriction": "Please enter a valid email.",

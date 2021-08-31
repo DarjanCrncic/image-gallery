@@ -7,10 +7,10 @@
     "painted-at": "Godina:",
 
     "name": "Ime",
-    "name-restriction": "Ime mora imati najmanje 5 znakova.",
+    "name-restriction": "Ime mora imati najmanje 3 znaka.",
 
     "message": "Tekst poruke",
-    "message-restriction": "Tekst poruke mora imati najmanje 15 znakova.",
+    "message-restriction": "Tekst poruke mora imati najmanje 10 znakova.",
 
     "email": "Vaša email adresa",
     "email-restriction": "Molimo unesite valjanu email adresu.",
